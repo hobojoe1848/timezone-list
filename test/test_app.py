@@ -2,7 +2,7 @@ import unittest
 
 import pendulum
 
-from timezones import create_list, get_tz_time
+from tz.timezones import create_list, get_tz_time
 
 
 class TestTzApp(unittest.TestCase):
