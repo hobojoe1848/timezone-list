@@ -1,5 +1,7 @@
 ## TZ List
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/bbelderbos/timezone-list?branch=master)](https://bettercodehub.com/)
+
 ### What is it?
 
 Small Flask app to get TZ from dropdown list using Pendulum and Pytz
